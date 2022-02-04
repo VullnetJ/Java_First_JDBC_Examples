@@ -8,12 +8,8 @@ import java.sql.SQLException;
 /**
  * DbUtils.java - A collection of static JDBC helper methods.
  * 
- * The closeQuietly methods close resources, avoid closing if null and hide any
- * SQLExceptions that occur. These methods help us to avoid writing excessive
- * amounts of boilerplate code.
- * 
- * @author Kari
- * @version 1.1 2019-11-03
+ * The closeQuietly methods close resources,
+
  */
 public class DbUtils {
 
