@@ -12,9 +12,7 @@ import data_access.DbUtils;
 
 /**
  * A minimal example of executing an SQL SELECT statement
- * 
- * @author Kari
- * @version 1.1 3.11.2019
+
  */
 public class PrintMovies {
 
