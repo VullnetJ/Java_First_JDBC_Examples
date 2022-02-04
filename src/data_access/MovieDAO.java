@@ -11,9 +11,8 @@ import java.util.ArrayList;
 import model.Movie;
 
 /**
- * DAO class for accessing movies. NB! 
- *This works as it is with all major RDBMSes and SQLite, Excel etc.
-
+ DAO class for accessing movies.
+ This works as it is with all major RDBMSes and SQLite, Excel etc.
  */
 public class MovieDAO {
 

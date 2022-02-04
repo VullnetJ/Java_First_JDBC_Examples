@@ -6,7 +6,7 @@ import data_access.MovieDAO;
 import model.Movie;
 
 /**
- * Database access example using the DAO design pattern.
+ * Database access using the DAO design pattern.
  */
 public class PrintMoviesUsingDao {
 

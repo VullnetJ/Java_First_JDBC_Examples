@@ -6,7 +6,7 @@ import data_access.ConnectionParameters;
 import data_access.DbUtils;
 
 /**
- * Creates (or recreates) and populates the Movie table in the database
+ *Creates (or recreates) and populates the Movie table in the database
 
  */
 public class CreateMovieTable {

@@ -10,7 +10,6 @@ import data_access.DbUtils;
 
 /**
  * A minimal example of executing an SQL INSERT statement
-
  */
 public class InsertMovie {
 	

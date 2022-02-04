@@ -1,5 +1,6 @@
 package data_access;
 
+
 public class ConnectionParameters {
 
 	// We can set the user name and password here (in SQLite these are optional)

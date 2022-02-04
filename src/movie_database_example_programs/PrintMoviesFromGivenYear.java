@@ -11,7 +11,6 @@ import data_access.DbUtils;
 
 /**
  * Executing a SELECT statement with parameters
-
  */
 public class PrintMoviesFromGivenYear {
 

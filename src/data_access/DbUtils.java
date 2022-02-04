@@ -7,9 +7,7 @@ import java.sql.SQLException;
 
 /**
  * DbUtils.java - A collection of static JDBC helper methods.
- * 
  * The closeQuietly methods close resources,
-
  */
 public class DbUtils {
 
