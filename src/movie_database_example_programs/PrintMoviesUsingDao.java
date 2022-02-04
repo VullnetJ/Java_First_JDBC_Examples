@@ -6,11 +6,7 @@ import data_access.MovieDAO;
 import model.Movie;
 
 /**
- * Database access example using the DAO design pattern. NB! There is no
- * JDBC-related code in this class!
- * 
- * @author Kari
- * @version 1.1 3.11.2019
+ * Database access example using the DAO design pattern.
  */
 public class PrintMoviesUsingDao {
 
