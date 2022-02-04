@@ -13,7 +13,7 @@ public class ConnectionParameters {
 	public static final String databaseName = "MovieDatabase.sqlite";
 	public static final String connectionString = "jdbc:sqlite:" + databaseLocation + databaseName;
 
-	// PK violation: The error code in SQLite is 19
+	// PK violation: The error code in SQLite is 19.
 	public static final int PK_VIOLATION_ERROR = 19;
 }
 // End
