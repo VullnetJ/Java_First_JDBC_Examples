@@ -9,9 +9,7 @@ package data_access;
  * stored in external configuration files, not as hard-coded values in the
  * program code :-)
  * 
- * @author Kari
- * @version 1.1 3.11.2019
- */
+
 
 public class ConnectionParameters {
 
