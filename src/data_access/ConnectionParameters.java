@@ -7,7 +7,7 @@ public class ConnectionParameters {
 	public static final String username = "";
 	public static final String password = "";
 
-	// JDBC driver class name, database location and name, and connection string
+	// JDBC driver class name, database location and name, and connection string.
 	public static final String jdbcDriver = "org.sqlite.JDBC";
 	public static final String databaseLocation = "databases/";
 	public static final String databaseName = "MovieDatabase.sqlite";
