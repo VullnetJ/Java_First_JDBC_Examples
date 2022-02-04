@@ -1,10 +1,8 @@
 package model;
 
 /**
- * Entity class: Movie
- * 
- * @author Kari
- * @version 1.1 3.11.2019
+ *  Movie
+
  */
 public class Movie {
 	private int id;
