@@ -11,13 +11,9 @@ import java.util.ArrayList;
 import model.Movie;
 
 /**
- * DAO class for accessing movies. NB! There should be NO user input/output in
- * this class! This class can be used in a stand-alone Java application or as a
- * part of the server-side implementation of a web application. => This code
- * works as it is with all major RDBMSes and SQLite, Excel etc.
- * 
- * @author Kari
- * @version 1.1 2019-11-03
+ * DAO class for accessing movies. NB! 
+ *This works as it is with all major RDBMSes and SQLite, Excel etc.
+
  */
 public class MovieDAO {
 
